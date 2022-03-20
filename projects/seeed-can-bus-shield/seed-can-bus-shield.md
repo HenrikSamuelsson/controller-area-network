@@ -12,4 +12,4 @@ Below are pictures of the CAN-shield and the Arduino.
 *Figure 1: CAN-Shield*
 
 ![Image of Arduino](./images/arduino-uno-rev3.webp)  
-*Figure 1: Arduino*
+*Figure 2: Arduino*
